@@ -1,0 +1,9 @@
+bill break-down : 
+
+sauce      ------     £1.99 
+maxon      ------     £1.56 
+cake       ------     £4.5 
+
+tip : £10.00
+
+total : £18.05
